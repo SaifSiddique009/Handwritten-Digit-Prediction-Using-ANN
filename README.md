@@ -15,7 +15,7 @@ This project is hosted on GitHub and can be run locally or in Google Colab, maki
 
 ## Repository Structure
 ```
-handwritten-digit-prediction/
+Handwritten-Digit-Prediction-Using-ANN/
 ├── README.md                # Project documentation
 ├── requirements.txt         # Dependencies for pip users
 ├── pyproject.toml          # Dependencies and config for uv users
@@ -54,7 +54,7 @@ handwritten-digit-prediction/
 2. **Clone the Repository**:
    ```
    git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
-   cd handwritten-digit-prediction
+   cd Handwritten-Digit-Prediction-Using-ANN/
    ```
 
 3. **Set Up Virtual Environment and Install Dependencies**:
@@ -70,7 +70,7 @@ For users preferring the standard Python package manager.
 1. **Clone the Repository**:
    ```
    git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
-   cd handwritten-digit-prediction
+   cd Handwritten-Digit-Prediction-Using-ANN/
    ```
 
 2. **Create and Activate Virtual Environment**:
@@ -113,14 +113,14 @@ You can run this project in Google Colab for easy demonstration (uses pip, as uv
 2. Clone and set up:
    ```bash
    !git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
-   %cd handwritten-digit-prediction
+   %cd /content/Handwritten-Digit-Prediction-Using-ANN
    !pip install -r requirements.txt
    ```
 3. Run the project:
    ```bash
    !python main.py
    ```
-4. View plots in the Files tab (`/content/handwritten-digit-prediction/*.png`).
+4. View plots in the Files tab (`/content/Handwritten-Digit-Prediction-Using-ANN/*.png`).
 5. Optional: Display plots inline by adding `%matplotlib inline` before running or modifying `src/evaluator.py` to use `plt.show()`.
 
 **Colab Tips**:
