@@ -53,7 +53,7 @@ handwritten-digit-prediction/
 
 2. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/handwritten-digit-prediction.git
+   git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
    cd handwritten-digit-prediction
    ```
 
@@ -69,7 +69,7 @@ For users preferring the standard Python package manager.
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/handwritten-digit-prediction.git
+   git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
    cd handwritten-digit-prediction
    ```
 
@@ -112,7 +112,7 @@ You can run this project in Google Colab for easy demonstration (uses pip, as uv
 1. Open a new notebook: [Google Colab](https://colab.research.google.com).
 2. Clone and set up:
    ```bash
-   !git clone https://github.com/yourusername/handwritten-digit-prediction.git
+   !git clone https://github.com/SaifSiddique009/Handwritten-Digit-Prediction-Using-ANN.git
    %cd handwritten-digit-prediction
    !pip install -r requirements.txt
    ```
@@ -138,11 +138,3 @@ You can run this project in Google Colab for easy demonstration (uses pip, as uv
 - **Testing**: Add unit tests with pytest for data loading and model evaluation.
 - **Deployment**: Containerize with Docker for reproducible environments.
 - **Model Enhancements**: Experiment with CNNs (e.g., Conv2D layers) for higher accuracy.
-
-## License
-[MIT License](LICENSE) - Free to use and modify.
-
-## Acknowledgments
-- Built with [TensorFlow](https://www.tensorflow.org/) and the [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
-- Uses [uv](https://docs.astral.sh/uv/) for modern dependency management.
-- Designed as a portfolio project to demonstrate ML engineering skills.
