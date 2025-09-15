@@ -1,7 +1,7 @@
 # Handwritten Digit Prediction Using ANN
 
 ## Project Overview
-This project implements a simple Artificial Neural Network (ANN) to classify handwritten digits from the MNIST dataset. It demonstrates a complete machine learning pipeline, including data loading, preprocessing, model building, training, evaluation, and visualization. The codebase is modularized for clarity and maintainability, following industry-standard practices suitable for a junior machine learning engineer’s portfolio.
+This project implements a simple Artificial Neural Network (ANN) to classify handwritten digits from the MNIST dataset. It demonstrates a complete machine learning pipeline, including data loading, preprocessing, model building, training, evaluation, and visualization. The codebase is modularized for clarity and maintainability, following industry-standard practices.
 
 ### Key Features
 - **Dataset**: Uses the MNIST dataset (70,000 grayscale images of 28x28 pixels, 10 digit classes).
